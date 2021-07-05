@@ -22,7 +22,6 @@ class Solution {
                 //pos가 end보다 크다면 마지막 값을 나타내는 알파벳의 위치를 변경 
                 // end = pos로
                 if (pos > end) {
-                    System.out.println("pos => " + pos  + "\tend => " + end);
                     end = pos;
                 }
                 count++;
