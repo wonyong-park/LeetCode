@@ -21,3 +21,17 @@
 | 8 | ctk03272 | Java, Javascript | https://github.com/ctk03272/21LeetCode |
 | 9 | sangdo913 | Kotlin, C++ | https://github.com/sangdo913/leetcode |
 | 10 | eotkd4791 | Javascript | https://github.com/eotkd4791/LeetCode-study |
+
+## Schedules
+
+### 7월 5일 ~ 7월 11일
+- [X] [763. Partition Labels](https://github.com/wonyong-park/LeetCode/blob/main/partition-labels/partition-labels.java)
+- [763. Partition Labels 풀이](https://blog.naver.com/wanyong0919/222421453050)
+- [X] [617. Merge Two Binary Trees](https://github.com/wonyong-park/LeetCode/tree/main/maximum-depth-of-binary-tree)
+- [617. Merge Two Binary Trees 풀이](https://blog.naver.com/wanyong0919/222420337647)
+ 
+### 7월 12일 ~ 7월 18일
+- [X] [338. Counting Bits](https://github.com/wonyong-park/LeetCode/blob/main/counting-bits/counting-bits.java)
+- [338. Counting Bits 풀이](https://blog.naver.com/wanyong0919/222429149064)
+- [X] [104. Maximum Depth of Binary Tree](https://github.com/wonyong-park/LeetCode/blob/main/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java)
+- [104. Maximum Depth of Binary Tree 풀이](https://blog.naver.com/wanyong0919/222429183896)
