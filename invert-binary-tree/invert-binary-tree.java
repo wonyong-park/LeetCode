@@ -27,6 +27,4 @@ class Solution {
 
         return root;
     }
-    
-
 }
