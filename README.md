@@ -40,3 +40,5 @@
 ### 7월 19일 ~ 7월 25일
 - [X] [226. Invert Binary Tree](https://github.com/wonyong-park/LeetCode/blob/main/invert-binary-tree/invert-binary-tree.java)
 - [226. Invert Binary Tree 풀이](https://blog.naver.com/wanyong0919/222437675528)
+- [X] [46. Permutations](https://github.com/wonyong-park/LeetCode/blob/main/permutations/permutations.java)
+- [46. Permutations](https://blog.naver.com/wanyong0919/222437796650)
