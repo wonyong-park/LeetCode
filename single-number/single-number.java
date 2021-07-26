@@ -1,14 +1,11 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        List<Integer> list = new ArrayList<>();
+        int result = 0;
+        
         for (int num : nums) {
-            if(!list.contains(num)){
-                list.add(num);
-            }else{
-                list.remove(list.indexOf(num));
-            }
+            result ^= num;
         }
 
-        return list.get(0);
+        return result;
     }
 }
