@@ -21,6 +21,8 @@
 | 8 | ctk03272 | Java, Javascript | https://github.com/ctk03272/21LeetCode |
 | 9 | sangdo913 | Kotlin, C++ | https://github.com/sangdo913/leetcode |
 | 10 | eotkd4791 | Javascript | https://github.com/eotkd4791/LeetCode-study |
+| 11 | DubleDstudy | Python | https://github.com/DubleDstudy/leetcode |
+| 12 | so3500 | Java | https://github.com/so3500/problem-solving |
 
 ## Schedules
 
