@@ -50,3 +50,9 @@
 - [94. Binary Tree Inorder Traversal 풀이](https://blog.naver.com/wanyong0919/222446606427)
 - [X] [136. Single Number](https://github.com/wonyong-park/LeetCode/blob/main/single-number/single-number.java)
 - [136. Single Number 풀이](https://blog.naver.com/wanyong0919/222446629100)
+
+### 8월 2일 ~ 8월 8일
+- [X] [22. Generate Parentheses](https://github.com/wonyong-park/LeetCode/blob/main/generate-parentheses/generate-parentheses.java)
+- [22. Generate Parentheses 풀이](https://blog.naver.com/wanyong0919/222456014310)
+- [X] [78. Subsets](https://github.com/wonyong-park/LeetCode/blob/main/subsets/subsets.java)
+- [78. Subsets 풀이](https://blog.naver.com/wanyong0919/222456029831)
