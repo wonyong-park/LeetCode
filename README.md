@@ -56,3 +56,9 @@
 - [22. Generate Parentheses 풀이](https://blog.naver.com/wanyong0919/222456014310)
 - [X] [78. Subsets](https://github.com/wonyong-park/LeetCode/blob/main/subsets/subsets.java)
 - [78. Subsets 풀이](https://blog.naver.com/wanyong0919/222456029831)
+
+### 8월 9일 ~ 8월 15일
+- [X] [206. Reverse Linked List](https://github.com/wonyong-park/LeetCode/blob/main/reverse-linked-list/reverse-linked-list.java)
+- [206. Reverse Linked List 풀이](https://blog.naver.com/wanyong0919/222462696113)
+- [X] [739. Daily Temperatures](https://github.com/wonyong-park/LeetCode/tree/main/daily-temperatures)
+- [739. Daily Temperatures 풀이](https://blog.naver.com/wanyong0919/222462716370)
