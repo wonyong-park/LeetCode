@@ -65,4 +65,6 @@
 
 ### 8월 16일 ~ 8월 22일
 - [X] [230. Kth Smallest Element in a BST](https://github.com/wonyong-park/LeetCode/blob/main/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java)
+- [230. Kth Smallest Element in a BST 풀이](https://blog.naver.com/wanyong0919/222472539545)
 - [X] [647. Palindromic Substrings](https://github.com/wonyong-park/LeetCode/blob/main/palindromic-substrings/palindromic-substrings.java)
+- [647. Palindromic Substrings 풀이](https://blog.naver.com/wanyong0919/222472554810)
