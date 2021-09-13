@@ -85,3 +85,9 @@
 - [49. Group Anagrams 풀이](https://blog.naver.com/wanyong0919/222497022255)
 - [X] [39. Combination Sum](https://github.com/wonyong-park/LeetCode/blob/main/combination-sum/combination-sum.java)
 - [39. Combination Sum 풀이](https://blog.naver.com/wanyong0919/222497034138)
+
+### 9월 13일 ~ 9월 19일
+- [X] [169. Majority Element](https://github.com/wonyong-park/LeetCode/blob/main/majority-element/majority-element.java)
+- [169. Majority Element 풀이](https://blog.naver.com/wanyong0919/222504277780)
+- [X] [215. Kth Largest Element in an Array](https://github.com/wonyong-park/LeetCode/blob/main/kth-largest-element-in-an-array/kth-largest-element-in-an-array.java)
+- [215. Kth Largest Element in an Array 풀이](https://blog.naver.com/wanyong0919/222504283775)
