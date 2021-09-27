@@ -95,3 +95,7 @@
 ### 9월 20일 ~ 9월 26일
 - [X] [283. Move Zeroes](https://github.com/wonyong-park/LeetCode/blob/main/move-zeroes/move-zeroes.java)
 - [X] [102. Binary Tree Level Order Traversal](https://github.com/wonyong-park/LeetCode/blob/main/binary-tree-level-order-traversal/binary-tree-level-order-traversal.java)
+
+### 9월 27일 ~ 10월 3일
+- [X] [287. Find the Duplicate Number](https://github.com/wonyong-park/LeetCode/blob/main/find-the-duplicate-number/find-the-duplicate-number.java)
+- [X] [199. Binary Tree Right Side View](https://github.com/wonyong-park/LeetCode/blob/main/binary-tree-right-side-view/binary-tree-right-side-view.java)
