@@ -9,20 +9,15 @@ class Solution {
             for (int c = 0; c < colSize; c++) {
                 if (r == 0 && c == 0) {
                     d[r][c] = grid[r][c];
+                } else if (r == 0) {
+                    d[r][c] = d[r][c-1] + grid[r][c];
+                } else if (c == 0) {
+                    d[r][c] = d[r-1][c] + grid[r][c];
                 }else{
-                    d[r][c] = Math.min(getD(r-1, c, d), getD(r, c-1, d)) + grid[r][c];
+                    d[r][c] = Math.min(d[r][c-1], d[r-1][c]) + grid[r][c];
                 }
             }
         }
-
         return d[rowSize-1][colSize-1];
-    }
-
-    private int getD(int row, int col, int[][] d) {
-        if (row < 0 || col < 0) {
-            return Integer.MAX_VALUE;
-        }
-
-        return d[row][col];
     }
 }
