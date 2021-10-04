@@ -99,3 +99,7 @@
 ### 9월 27일 ~ 10월 3일
 - [X] [287. Find the Duplicate Number](https://github.com/wonyong-park/LeetCode/blob/main/find-the-duplicate-number/find-the-duplicate-number.java)
 - [X] [199. Binary Tree Right Side View](https://github.com/wonyong-park/LeetCode/blob/main/binary-tree-right-side-view/binary-tree-right-side-view.java)
+
+### 10월 4일 ~ 10월 10일
+- [X] [21. Merge Two Sorted Lists](https://github.com/wonyong-park/LeetCode/blob/main/merge-two-sorted-lists/merge-two-sorted-lists.java)
+- [X] [64. Minimum Path Sum](https://github.com/wonyong-park/LeetCode/blob/main/minimum-path-sum/minimum-path-sum.java)
