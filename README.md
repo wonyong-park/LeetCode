@@ -103,3 +103,7 @@
 ### 10월 4일 ~ 10월 10일
 - [X] [21. Merge Two Sorted Lists](https://github.com/wonyong-park/LeetCode/blob/main/merge-two-sorted-lists/merge-two-sorted-lists.java)
 - [X] [64. Minimum Path Sum](https://github.com/wonyong-park/LeetCode/blob/main/minimum-path-sum/minimum-path-sum.java)
+
+### 10월 4일 ~ 10월 10일
+- [X] [62. Unique Paths](https://github.com/wonyong-park/LeetCode/blob/main/unique-paths/unique-paths.java)
+- [X] [96. Unique Binary Search Trees](https://github.com/wonyong-park/LeetCode/blob/main/unique-paths/unique-paths.java)
