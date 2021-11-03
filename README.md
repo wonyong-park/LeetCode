@@ -115,3 +115,7 @@
 ### 10월 25일 ~ 10월 31일
 - [X] [208. Implement Trie (Prefix Tree)](https://github.com/wonyong-park/LeetCode/blob/main/implement-trie-prefix-tree/implement-trie-prefix-tree.java)
 - [X] [394. Decode String](https://github.com/wonyong-park/LeetCode/blob/main/decode-string/decode-string.java)
+
+### 11월 01일 ~ 11월 07일
+- [X] [42. Trapping Rain Water](https://github.com/wonyong-park/LeetCode/blob/main/trapping-rain-water/trapping-rain-water.java)
+- [X] [621. Task Scheduler](https://github.com/wonyong-park/LeetCode/blob/main/task-scheduler/task-scheduler.java)
